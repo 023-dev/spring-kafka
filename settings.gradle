@@ -1,1 +1,6 @@
-rootProject.name = 'kafka'
+rootProject.name = 'spring-kafka'
+
+include 'common'
+include 'producer'
+include 'consumer'
+
