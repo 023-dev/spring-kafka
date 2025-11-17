@@ -1,12 +1,11 @@
-# Spring Kafka 학습 프로젝트
+# Spring Kafka
 
 ## 개요
 
-이 프로젝트는 Spring Boot와 Apache Kafka를 사용하여 비동기 메시지 처리 시스템을 구현합니다. 이메일 발송과 SMS 발송을 예제로, Producer와 Consumer를 멀티모듈로 분리하여 독립적으로 배포 가능한 구조를 학습합니다.
+이 프로젝트는 Spring Boot와 Apache Kafka를 사용하여 비동기 메시지 처리 시스템을 구현합니다. 
+이메일 발송을 예제로, Producer와 Consumer를 멀티모듈로 분리하여 독립적으로 배포 가능한 구조를 구현합니다.
 
 ### 학습 목표
-
-이 프로젝트를 완료하면 다음을 수행할 수 있습니다:
 
 - Kafka의 기본 개념과 동작 원리 이해
 - Spring Kafka를 사용한 Producer/Consumer 구현
